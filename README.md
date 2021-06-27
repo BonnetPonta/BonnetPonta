@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-【Private repository】  
+## 【Private repository】  
 discordbot_python : 521[commit]  (2021/06/27)  
 
-【Public repository】  
+## 【Public repository】  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnetPonta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-## License  
+# License  
 著作権等は完全フリーです。また、いかなる損害や不利益など完全自己責任でお願いします。  
 なにかあれば私のTwitterのDMまで。  
