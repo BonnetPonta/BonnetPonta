@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## 【Private repository】  
-discordbot_python : 521[commit]  (2021/06/27)  
+discordbot_python : 525[commit]  (2021/07/03)  
+![image](https://user-images.githubusercontent.com/80739002/124348636-f3603000-dc25-11eb-8216-b837033eb914.png)
+
 
 ## 【Public repository】  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnetPonta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
