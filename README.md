@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 【Private repository】  
 discordbot_python : 525[commit]  (2021/07/03)  
-![image](https://user-images.githubusercontent.com/80739002/124348636-f3603000-dc25-11eb-8216-b837033eb914.png)
 
 
 ## 【Public repository】  
@@ -27,4 +26,9 @@ discordbot_python : 525[commit]  (2021/07/03)
 
 # License  
 著作権等は完全フリーです。また、いかなる損害や不利益など完全自己責任でお願いします。  
-なにかあれば私のTwitterのDMまで。  
+リポジトリのバグやリクエスト等は、各リポジトリのissueに投げてください。  
+なにかあれば私のTwitterのDMでもOK！！  
+
+# My operating environment  
+OS : Windows  
+Python : 3.9.x  
