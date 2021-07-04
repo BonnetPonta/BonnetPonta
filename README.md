@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 【Private repository】  
-discordbot_python : 525[commit]  (2021/07/03)  
-
-
-## 【Public repository】  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnetPonta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -30,5 +24,6 @@ discordbot_python : 525[commit]  (2021/07/03)
 なにかあれば私のTwitterのDMでもOK！！  
 
 # My operating environment  
-OS : Windows  
-Python : 3.9.x  
+OS: Windows10  
+Editor: Visual Studio Code  
+Python Version: 3.9.x  
