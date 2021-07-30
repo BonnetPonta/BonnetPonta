@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 # License  
 ### [ENGLISH]  
-Copyright and other rights are completely free. You are responsible for any damage or disadvantage.  
+All my repositories are MIT licensed.  
 If you have any bugs or requests for the repositories, please read the readme of each repository and send me an issue.  
 You can also DM me on Twitter if you have any questions!  
   
 ### [日本語]  
-著作権等は完全フリーです。また、いかなる損害や不利益など完全自己責任でお願いします。  
+私のリポジトリはすべてMITライセンスです。    
 リポジトリのバグやリクエスト等は、各リポジトリのReadme等を読んだ上でissueでお願いします。  
 なにかあれば私のTwitterのDMでもOK！！  
 
