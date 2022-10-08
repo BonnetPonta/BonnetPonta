@@ -34,3 +34,6 @@ OS: Windows10
 Editor: Visual Studio Code  
 WSL: Ubuntu-20.04  
 Python Version: 3.9.x  
+
+# Icon
+[フリーペンシル](https://iconbu.com/)
