@@ -1,6 +1,6 @@
 # My Information 👋
 
-[![Top Langs](https://github-readme-stats-two-amber-57.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://git-hub-readme-stats-clone-crvg.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 # License  
