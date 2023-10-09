@@ -1,6 +1,6 @@
 # My Information 👋
 
-[![Top Langs](https://git-hub-readme-stats-clone-murex.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://git-hub-readme-stats-clone-murex.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 # License  
