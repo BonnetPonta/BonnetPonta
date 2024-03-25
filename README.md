@@ -1,23 +1,16 @@
-# My Information 👋
+# My Github Repository 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  
 
-# License  
-### [ENGLISH]  
-All my repositories are MIT licensed.  
-If you have any bugs or requests for the repositories, please read the readme of each repository and send me an issue.  
-You can also DM me on Twitter if you have any questions!  
-  
-### [日本語]  
-私のリポジトリはすべてMITライセンスです。    
-リポジトリのバグやリクエスト等は、各リポジトリのReadme等を読んだ上でissueでお願いします。  
-なにかあれば私のTwitterのDMでもOK！！  
+# My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,eclipse,python,django,discord,bots,discordjs,fastapi,flask,git,github,githubactions,gmail,heroku,jquery,md,mysql,notion,npm
+)](https://skillicons.dev)
 
-# My operating environment  
-OS: Windows10  
-Editor: Visual Studio Code  
-WSL: Ubuntu-20.04  
-Python Version: >= 3.9.x  
+# Studying Now
+[![Studying Now](https://skillicons.dev/icons?i=express,go,graphql,materialui,mongodb,nextjs,nginx,nodejs,)](https://skillicons.dev)
 
-# Icon
+# Future Study
+[![Future Study](https://skillicons.dev/icons?i=bun,docker,kubernetes,electron,htmx,kali,linux,)](https://skillicons.dev)
+
+# My User Icon
 [フリーペンシル](https://iconbu.com/)
