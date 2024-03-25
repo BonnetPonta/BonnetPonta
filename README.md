@@ -9,10 +9,10 @@
 a few more.
 
 # Studying Now
-[![Studying Now](https://skillicons.dev/icons?i=express,go,graphql,materialui,mongodb,react,nextjs,nginx,nodejs,prisma,regex,sass,)](https://skillicons.dev)
+[![Studying Now](https://skillicons.dev/icons?i=express,go,graphql,materialui,mongodb,react,nextjs,nginx,nodejs,prisma,regex,sass,docker,kubernetes,)](https://skillicons.dev)
 
 # Future Study
-[![Future Study](https://skillicons.dev/icons?i=bun,pnpm,docker,kubernetes,electron,htmx,kali,linux,sklearn,pytorch,tensorflow,raspberrypi,rust,tailwind,wasm,webpack,windicss,)](https://skillicons.dev)
+[![Future Study](https://skillicons.dev/icons?i=rust,bun,pnpm,electron,htmx,kali,linux,tailwind,windicss,wasm,webpack,sklearn,pytorch,tensorflow,raspberrypi,)](https://skillicons.dev)
 
 # My User Icon
 [フリーペンシル](https://iconbu.com/)
