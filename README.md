@@ -1,6 +1,6 @@
 # My Github Repository
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnetPonta&layout=compact&theme=radical&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnetPonta&count_private=true&layout=compact&theme=radical&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  
 
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,npm,java,eclipse,visualstudio,vscode,py,fastapi,flask,django,selenium,discord,bots,discordjs,notion,git,github,githubactions,heroku,md,svg,mysql,postgres,sqlite,planetscale,postman,stackoverflow,ubuntu,vercel,vite,windows,
