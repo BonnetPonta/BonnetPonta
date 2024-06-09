@@ -5,7 +5,7 @@
 a few more.
 
 # Studying Now
-[![Studying Now](https://skillicons.dev/icons?i=go,mongodb,react,nextjs,prisma,sass,graphql,materialui,docker,kubernetes,kali,linux,)](https://skillicons.dev)
+[![Studying Now](https://skillicons.dev/icons?i=spring,go,mongodb,react,nextjs,prisma,sass,graphql,materialui,docker,kubernetes,kali,linux,)](https://skillicons.dev)
 
 # Future Study
 [![Future Study](https://skillicons.dev/icons?i=rust,wasm,electron,tailwind,windicss,nginx,sklearn,pytorch,tensorflow,raspberrypi,)](https://skillicons.dev)
