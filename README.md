@@ -1,6 +1,6 @@
 <!-- 
-1. https://skillicons.dev/iconsより、リクエスト負荷軽減のため、svg画像をDL
-2. https://convertio.co/ja/svg-webp/より、svgをwebpへ変換(svgも外部にリクエストするため)
+1. https://skillicons.dev/icons より、リクエスト負荷軽減のため、svg画像をDL
+2. https://convertio.co/ja/svg-webp/ より、svgをwebpへ変換(svgも外部にリクエストするため)
 -->
 
 # My Skills
@@ -12,12 +12,22 @@ a few more.
 
 # Studying Now
 
-<!-- https://skillicons.dev/icons?i=spring,go,mongodb,react,nextjs,prisma,sass,graphql,materialui,docker,kubernetes,kali,linux, -->
+<!-- https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,rust,go, -->
 [![Studying Now](./images/now.webp)](https://skillicons.dev)
+
+# Study Canceled
+
+<!-- https://skillicons.dev/icons?i=spring,react,nextjs,prisma,sass,materialui, -->
+[![Study Canceled](./images/canceled.webp)](https://skillicons.dev)
+
+- キャンセルした理由
+  - 新規需要の低迷(競合多数)
+  - 破壊的変更による堅牢性の懸念や、学習コストの増加
+  - 飽和状態のスキル
 
 # Future Study
 
-<!-- https://skillicons.dev/icons?i=rust,wasm,electron,tailwind,windicss,nginx,sklearn,pytorch,tensorflow,raspberrypi, -->
+<!-- https://skillicons.dev/icons?i=wasm,mongodb,graphql,tailwind,windicss,nginx,sklearn,pytorch,tensorflow,raspberrypi, -->
 [![Future Study](./images/future.webp)](https://skillicons.dev)
 
 # My User Icon
