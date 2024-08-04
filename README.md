@@ -15,6 +15,9 @@ a few more.
 <!-- https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,rust,go, -->
 [![Studying Now](./images/now.webp)](https://skillicons.dev)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/bcp.png" alt="TryHackMe">
+
+
 # Study Canceled
 
 <!-- https://skillicons.dev/icons?i=spring,react,nextjs,prisma,sass,materialui, -->
